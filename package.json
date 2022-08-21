@@ -1,0 +1,20 @@
+{
+  "name": "jban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "def": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^2.1.2-next.20220807055457",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0",
+    "nodemon": "^2.0.19",
+    "puppeteer": "^16.1.0",
+    "xlsx": "^0.18.5"
+  }
+}

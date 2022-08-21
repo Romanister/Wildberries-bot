@@ -1,0 +1,60 @@
+[
+  
+  {
+    "name": "x-supplier-id",
+    "value": "Ваш ID",
+    "domain": "seller.wildberries.ru",
+    "path": "/",
+    "expires": 1694367060.222442,
+    "size": 49,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "WBToken",
+    "value": "Ваш токен",
+    "domain": "seller.wildberries.ru",
+    "path": "/",
+    "expires": 1660671059.011007,
+    "size": 117,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "_wbauid",
+    "value": "Ваш ID",
+    "domain": ".seller.wildberries.ru",
+    "path": "/",
+    "expires": 1691343002,
+    "size": 26,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "locale",
+    "value": "ru",
+    "domain": "seller.wildberries.ru",
+    "path": "/",
+    "expires": 1694367059.938142,
+    "size": 8,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
